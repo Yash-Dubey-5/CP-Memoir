@@ -1,0 +1,12 @@
+# Compiled Binaries
+*.out
+*.exe
+*.o
+
+# Local Scratchpads
+input.txt
+output.txt
+*.log
+
+# OS Generated
+.DS_Store
